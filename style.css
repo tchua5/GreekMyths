@@ -1,0 +1,57 @@
+.Item1{
+  display: inline-block;
+  width: 30%;
+  margin:5px
+}
+
+.center{
+  margin-left: 15%;
+}
+
+.center1{
+  margin-left: 28%;
+}
+
+.center2{
+  margin-left: 30%;
+}
+
+.BigCenter{
+    display:flex;
+    justify-content: center;
+}
+
+.Text{
+	margin-left: 36%;
+}
+
+.Text1{
+	margin-left: 40%;
+}
+
+.Text2{
+	margin-left: 55%;
+}
+
+.CenterText{
+	padding-left:600px; 
+}
+
+.CenterPic{
+	margin-left: 38%;
+}
+
+.Float{
+	float:right;
+}
+
+.clearFix{
+	overflow: auto;
+}
+
+.table {
+    font-family: arial, sans-serif;
+    color: black;
+    border-collapse: collapse;
+    width: 100%;
+}
